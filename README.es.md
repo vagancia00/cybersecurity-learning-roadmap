@@ -8,6 +8,9 @@
 
 </div>
 
+> [!NOTE]
+> Una pequeña cantidad de los recursos enlazados puede estar disponible únicamente en español.
+
 ## Acerca de esta ruta
 
 Originalmente creé esta ruta para reproducir por mi cuenta, mediante estudio y práctica, la progresión de aprendizaje de una nueva carrera de ciberseguridad de una universidad local.
@@ -174,20 +177,6 @@ Este repositorio reorganiza ese plan como una referencia pública. Conserva la e
 - [elhacker.NET](https://elhacker.net/)
 - [TryHackMe Free Rooms](https://github.com/winterrdog/tryhackme-free-rooms?tab=readme-ov-file#hard-ctf)
 - [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
-
-### Herramientas y referencias OSINT
-
-- [Shodan](https://account.shodan.io/login?continue=https%3A%2F%2Fwww.shodan.io%2Fdashboard)
-- [theHarvester](https://github.com/laramies/theHarvester)
-- [Maltego](https://www.maltego.com/)
-- [FOCA](https://github.com/ElevenPaths/FOCA)
-- [WhatsMyName](https://whatsmyname.app/)
-- [OSINT Framework](https://osintframework.com/)
-- [Have I Been Pwned](https://haveibeenpwned.com/)
-- [Intelligence X](https://intelx.io/)
-- [Digital Digging Cache](https://cache.digitaldigging.org/)
-- [Storywrangling](https://storywrangling.org/)
-- [Malwarebytes Digital Footprint Scan](https://www.malwarebytes.com/digital-footprint)
 
 ## Certificaciones
 
