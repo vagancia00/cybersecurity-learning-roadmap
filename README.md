@@ -8,6 +8,9 @@
 
 </div>
 
+> [!NOTE]
+> A small number of the linked resources may be available only in Spanish.
+
 ## About
 
 I originally created this roadmap to reproduce independently, through self-study and practice, the learning progression of a newly introduced cybersecurity degree at a local university.
@@ -174,20 +177,6 @@ This repository reorganizes that curriculum into a public reference. It preserve
 - [elhacker.NET](https://elhacker.net/)
 - [TryHackMe Free Rooms](https://github.com/winterrdog/tryhackme-free-rooms?tab=readme-ov-file#hard-ctf)
 - [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
-
-### OSINT tools and references
-
-- [Shodan](https://account.shodan.io/login?continue=https%3A%2F%2Fwww.shodan.io%2Fdashboard)
-- [theHarvester](https://github.com/laramies/theHarvester)
-- [Maltego](https://www.maltego.com/)
-- [FOCA](https://github.com/ElevenPaths/FOCA)
-- [WhatsMyName](https://whatsmyname.app/)
-- [OSINT Framework](https://osintframework.com/)
-- [Have I Been Pwned](https://haveibeenpwned.com/)
-- [Intelligence X](https://intelx.io/)
-- [Digital Digging Cache](https://cache.digitaldigging.org/)
-- [Storywrangling](https://storywrangling.org/)
-- [Malwarebytes Digital Footprint Scan](https://www.malwarebytes.com/digital-footprint)
 
 ## Certifications
 
