@@ -193,6 +193,13 @@ Este repositorio reorganiza ese plan como una referencia pública. Conserva la e
 - [CompTIA](https://www.comptia.org/en-em/)
 - [Cybrary](https://www.cybrary.it/)
 
+## Menciones honoríficas: opciones académicas formales
+
+Según mi opinión personal, estas son las mejores opciones para quienes quieren entrar directamente a estudiar ciberseguridad mediante una formación académica formal.
+
+- **[UVEG — Ingeniería en Ciberseguridad](https://uveg.edu.mx/info-ing-ciberseg):** Mi recomendación para quienes comienzan desde cero y todavía no cuentan con estudios superiores. Es una ingeniería flexible y en línea que aborda protección de información, seguridad ofensiva y defensiva, gestión de riesgos, respuesta a incidentes y ciberseguridad aplicada a la industria 4.0, con tres bloques de especialización disponibles.
+- **[INFOTEC — Técnico Superior Universitario en Ciberseguridad](https://www.infotec.mx/tsu_cursos/tsu-en-ciberseguridad/):** Mi opción favorita y recomendada para quienes ya cuentan con estudios superiores y buscan principalmente conocimiento técnico concentrado o una especialización práctica. El programa en línea dura seis cuatrimestres, equivalentes a dos años, incluye una estadía profesional y cubre soporte de TI, desarrollo seguro de software, telecomunicaciones, redes, criptografía, tecnologías en la nube, monitoreo y gestión de la ciberseguridad.
+
 ## Alcance
 
 Esta es una adaptación personal e independiente. No está afiliada ni respaldada por la universidad, los proveedores de certificación, las plataformas o las comunidades enlazadas.
