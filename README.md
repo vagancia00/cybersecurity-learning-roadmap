@@ -193,6 +193,13 @@ This repository reorganizes that curriculum into a public reference. It preserve
 - [CompTIA](https://www.comptia.org/en-em/)
 - [Cybrary](https://www.cybrary.it/)
 
+## Honorable mentions: formal academic options
+
+In my personal opinion, these are the strongest options for people who want to enter cybersecurity directly through formal academic education.
+
+- **[UVEG — Bachelor's Degree in Cybersecurity Engineering](https://uveg.edu.mx/info-ing-ciberseg):** My recommendation for people starting from zero who have not yet completed higher education. It is a flexible online engineering degree covering information protection, offensive and defensive security, risk management, incident response, and cybersecurity for Industry 4.0, with three available specialization blocks.
+- **[INFOTEC — Higher University Technician in Cybersecurity](https://www.infotec.mx/tsu_cursos/tsu-en-ciberseguridad/):** My favorite and recommended option for people who already have higher education and mainly want concentrated technical training or a practical specialization. The online two-year program spans six terms, including a professional internship, and covers IT support, secure software development, telecommunications, networking, cryptography, cloud technologies, monitoring, and cybersecurity management.
+
 ## Scope
 
 This is a personal, independent adaptation. It is not affiliated with or endorsed by the university, certification providers, platforms, or communities linked above.
