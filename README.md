@@ -131,14 +131,23 @@ This repository reorganizes that curriculum into a public reference. It preserve
 
 ## Resources
 
-### Practice and study
+### General learning resources
+
+- [Free Certifications](https://free-certifications.com/) — Directory of free courses, certificates, badges, and temporary certification offers. Verify availability and expiration directly with each provider.
+- [Cyber Security Roadmap — roadmap.sh](https://roadmap.sh/cyber-security) — Community-created step-by-step cybersecurity learning roadmap.
+- [INROADS Mexico — Google Career Certificate Scholarships](https://becas.inroads.org.mx/#list=certs) — Online scholarship program for Google Career Certificates, including cybersecurity, primarily for Mexican citizens or residents.
+- [Breaking into Cyber Security](https://jhalon.github.io/breaking-into-cyber-security/) — Extensive guide to cybersecurity roles, learning areas, practice platforms, and technical resources.
+- [Beginner Cybersecurity Guide — r/ciberseguridad](https://www.reddit.com/r/ciberseguridad/comments/1i7h7k9/est%C3%A1s_iniciando_en_ciberseguridad_este_post_es/) — Spanish-language community guide for beginners.
+- [TryHackMe Free Rooms](https://github.com/winterrdog/tryhackme-free-rooms?tab=readme-ov-file#hard-ctf) — Curated list of more than 390 free TryHackMe rooms organized by topic and difficulty.
+- [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) — Living collection of offensive, defensive, CTF, and red-team technical notes.
+
+### Practice and study platforms
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [pwn.college](https://pwn.college)
 - [CryptoHack](https://cryptohack.org)
 - [Hack The Box](https://www.hackthebox.com)
 - [TryHackMe](https://tryhackme.com)
-- [Bugcrowd](https://www.bugcrowd.com)
 - [VulnHub](https://www.vulnhub.com/)
 - [DEF CON](https://defcon.org/)
 - [picoCTF](https://picoctf.org/)
@@ -147,19 +156,38 @@ This repository reorganizes that curriculum into a public reference. It preserve
 - [Root Me](https://www.root-me.org/?lang=es)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
-### Scrims and public programs
+### Competitions, vulnerability disclosure, and exploit references
 
 - [HackerOne](https://www.hackerone.com)
 - [Bugcrowd](https://www.bugcrowd.com)
-- [Exploit Database](https://www.exploit-db.com)
 - [CTFtime](https://ctftime.org)
+- [Exploit Database](https://www.exploit-db.com/)
 
-### Information and communities
+### Information, references, and communities
 
 - [r/netsec](https://www.reddit.com/r/netsec/)
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [OPSEC Guide](https://whos-zycher.github.io/opsec-guide/)
+- [Breaking into Cyber Security](https://jhalon.github.io/breaking-into-cyber-security/)
+- [Beginner Cybersecurity Guide — r/ciberseguridad](https://www.reddit.com/r/ciberseguridad/comments/1i7h7k9/est%C3%A1s_iniciando_en_ciberseguridad_este_post_es/)
+- [elhacker.NET](https://elhacker.net/)
+- [TryHackMe Free Rooms](https://github.com/winterrdog/tryhackme-free-rooms?tab=readme-ov-file#hard-ctf)
+- [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
+
+### OSINT tools and references
+
+- [Shodan](https://account.shodan.io/login?continue=https%3A%2F%2Fwww.shodan.io%2Fdashboard)
+- [theHarvester](https://github.com/laramies/theHarvester)
+- [Maltego](https://www.maltego.com/)
+- [FOCA](https://github.com/ElevenPaths/FOCA)
+- [WhatsMyName](https://whatsmyname.app/)
+- [OSINT Framework](https://osintframework.com/)
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Intelligence X](https://intelx.io/)
+- [Digital Digging Cache](https://cache.digitaldigging.org/)
+- [Storywrangling](https://storywrangling.org/)
+- [Malwarebytes Digital Footprint Scan](https://www.malwarebytes.com/digital-footprint)
 
 ## Certifications
 
@@ -168,11 +196,15 @@ This repository reorganizes that curriculum into a public reference. It preserve
 | CompTIA A+ | Hardware and software |
 | CompTIA Network+ | Networks and communications |
 | CompTIA Security+ | Cybersecurity fundamentals |
+| CompTIA Cybersecurity Analyst (CySA+) | Defensive analysis, monitoring, and incident response |
+| CompTIA PenTest+ | Penetration testing and vulnerability assessment |
+| Google Cybersecurity Professional Certificate | Entry-level security operations, Linux, SQL, Python, SIEM, and incident response |
+| INE Junior Penetration Tester (eJPT) | Entry-level network, host, and web penetration testing |
 | Offensive Security Certified Professional (OSCP) | Penetration testing, exploits, and web application hacking |
 | GIAC Certified Penetration Tester (GPEN) | Penetration testing and methodologies |
 | Certified Ethical Hacker (CEH) | Hacking tools and techniques |
 | Certified Hardware Hacking Professional (CHHP) | Hardware and firmware hacking |
-| GIAC Cyber Threat Intelligence (GCTI) | Cyberwarfare |
+| GIAC Cyber Threat Intelligence (GCTI) | Cyber threat intelligence |
 | GIAC Certified Incident Handler (GCIH) | Incident response and management |
 | GIAC Reverse Engineering Malware (GREM) | Malware analysis |
 | AWS Certified Security — Specialty | Cloud security |
@@ -180,18 +212,39 @@ This repository reorganizes that curriculum into a public reference. It preserve
 | Offensive Security Exploit Developer (OSED) | Exploit development |
 | Global Industrial Cyber Security Professional (GICSP) | Industrial control system security (SCADA/OT) |
 | Certified Security Analyst (CSA) | Database hacking, forensic analysis, and threat attribution |
-| Certified Information Systems Security Professional (CISSP) | Advanced cryptography and cryptanalysis |
+| Certified Information Systems Security Professional (CISSP) | Security architecture, governance, and advanced security concepts |
+| ISC2 Certified in Cybersecurity (CC) | Entry-level security principles, access control, networking, and operations |
+| Cisco Ethical Hacker | Ethical hacking, reconnaissance, vulnerability assessment, and exploitation fundamentals |
+| ISO/IEC 27001 Information Security Associate | Information security management systems and ISO/IEC 27001 fundamentals |
+| OpenSSF Developing Secure Software (LFD121) | Secure software development and common vulnerability prevention |
+| IBM QRadar SIEM Foundation | SIEM fundamentals and QRadar security monitoring |
+
+### Hack The Box certifications
+
+| Certification | Skills |
+| --- | --- |
+| HTB Certified Junior Cybersecurity Associate (HTB CJCA) | Foundational offensive and defensive assessment, SIEM monitoring, traffic analysis, and reporting |
+| HTB Certified Penetration Testing Specialist (HTB CPTS) | Intermediate infrastructure penetration testing and commercial-grade reporting |
+| HTB Certified Web Exploitation Specialist (HTB CWES) | Intermediate web application pentesting, API security, and bug bounty hunting |
+| HTB Certified Defensive Security Analyst (HTB CDSA) | SOC operations, security analysis, incident handling, and incident reporting |
+| HTB Certified Web Exploitation Expert (HTB CWEE) | Advanced web exploitation, source-code review, debugging, and custom exploit development |
+| HTB Certified Active Directory Pentesting Expert (HTB CAPE) | Advanced Active Directory and Windows penetration testing |
+| HTB Certified Wi-Fi Pentesting Expert (HTB CWPE) | Advanced wireless security testing across enterprise Wi-Fi protocols |
+| HTB Certified Offensive AI Expert (HTB COAE) | AI and ML red teaming, adversarial ML, LLM exploitation, AI security, defense, and privacy |
 
 ### Certification and training providers
 
+- [Hack The Box Academy](https://academy.hackthebox.com/preview/certifications)
 - [EC-Council](https://www.eccouncil.org/)
 - [INE](https://ine.com/)
 - [EC-Council University](https://www.eccu.edu/)
 - [SANS Institute](https://www.sans.org/)
 - [OffSec](https://www.offsec.com/)
 - [Infosec Institute](https://www.infosecinstitute.com/)
-- [CompTIA](https://www.comptia.org/en-em/)
+- [CompTIA](https://www.comptia.org/en-us/)
 - [Cybrary](https://www.cybrary.it/)
+- [INROADS Mexico — Google Career Certificate Scholarships](https://becas.inroads.org.mx/#list=certs)
+- [Free Certifications directory](https://free-certifications.com/)
 
 ## Honorable mentions: formal online academic programs
 
@@ -223,4 +276,4 @@ Recommended for people seeking deep, generalist foundations with stronger emphas
 
 ## Scope
 
-This is a personal, independent adaptation. It is not affiliated with or endorsed by the university, certification providers, platforms, or communities linked above.
+This repository is independently curated and is not affiliated with or endorsed by any institution, provider, platform, project, or community linked here.
