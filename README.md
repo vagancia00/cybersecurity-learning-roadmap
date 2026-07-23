@@ -4,6 +4,8 @@
 
 **A self-directed curriculum for learning cybersecurity through structured study, hands-on practice, certifications, projects, and research.**
 
+[Español](README.es.md)
+
 [Curriculum](#curriculum) · [Specializations](#specialization-tracks) · [Practice](#practice-platforms) · [Certifications](#certification-paths) · [Evidence](#evidence-of-learning)
 
 </div>
